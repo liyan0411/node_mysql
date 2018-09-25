@@ -3,11 +3,11 @@
 
 在express中进行mysql的连接
 
-##		express -e test_mysql -y
+##		express -e node_mysql -y
 
 生成项目
 
-## 		cd test_mysql
+## 		cd node_mysql
 
 进入项目
 
