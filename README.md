@@ -1,6 +1,5 @@
 #	nodejs+mysql简单封装增删改查方法
 
-
 在express中进行mysql的连接
 
 ##		express -e node_mysql -y
