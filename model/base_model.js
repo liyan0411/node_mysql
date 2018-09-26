@@ -1,6 +1,6 @@
 /**
  * @type class BaseModel
- * @author danhuang
+ * @author Leeyen
  * @time 2012-12-22
  * @desc desc base_model.js
  */

@@ -1,6 +1,6 @@
 /**
  * @type module
- * @author minchao
+ * @author Leeyen
  * @time 2018-01-16
  * @desc desc util.js
  */
